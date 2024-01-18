@@ -1,2 +1,2 @@
-# kim-hosting.github.io
-Personal Website
+# TaejunKimViolin.github.io
+Professional Website for Violin lessons with Taejun Kim
