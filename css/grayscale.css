@@ -215,7 +215,7 @@ a:focus {
 .intro .intro-body .brand-heading {
     font-size: 40px;
     font-weight: 550;
-    color: black;
+    color: /*black*/ white;
 }
 
 .intro .intro-body .intro-text {
