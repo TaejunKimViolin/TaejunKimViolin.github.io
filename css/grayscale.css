@@ -82,7 +82,8 @@ h6 {
 
 p {
     margin: 0 0 25px;
-    font-size: 18px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px; /*18px;*/
     line-height: 1.5;
 }
 
